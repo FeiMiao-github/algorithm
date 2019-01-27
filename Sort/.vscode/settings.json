@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "testdate.h": "c",
+        "time.h": "c",
+        "demo1.h": "c"
+    }
+}
