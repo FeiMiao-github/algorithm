@@ -1,0 +1,582 @@
+[
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/1.labyrinth.dir/src/1.labyrinth.cpp.o -c /home/ug/Documents/algorithm/src/1.labyrinth.cpp",
+  "file": "/home/ug/Documents/algorithm/src/1.labyrinth.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/1.labyrinth.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/13.dir/src/13.cpp.o -c /home/ug/Documents/algorithm/src/13.cpp",
+  "file": "/home/ug/Documents/algorithm/src/13.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/13.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/1338.dir/src/1338.cpp.o -c /home/ug/Documents/algorithm/src/1338.cpp",
+  "file": "/home/ug/Documents/algorithm/src/1338.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/1338.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/134.dir/src/134.cpp.o -c /home/ug/Documents/algorithm/src/134.cpp",
+  "file": "/home/ug/Documents/algorithm/src/134.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/134.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/14.dir/src/14.cpp.o -c /home/ug/Documents/algorithm/src/14.cpp",
+  "file": "/home/ug/Documents/algorithm/src/14.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/14.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/15.dir/src/15.cpp.o -c /home/ug/Documents/algorithm/src/15.cpp",
+  "file": "/home/ug/Documents/algorithm/src/15.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/15.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/198.dir/src/198.cpp.o -c /home/ug/Documents/algorithm/src/198.cpp",
+  "file": "/home/ug/Documents/algorithm/src/198.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/198.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2.wf.dir/src/2.wf.cpp.o -c /home/ug/Documents/algorithm/src/2.wf.cpp",
+  "file": "/home/ug/Documents/algorithm/src/2.wf.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2.wf.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/202.dir/src/202.cpp.o -c /home/ug/Documents/algorithm/src/202.cpp",
+  "file": "/home/ug/Documents/algorithm/src/202.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/202.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/204.dir/src/204.cpp.o -c /home/ug/Documents/algorithm/src/204.cpp",
+  "file": "/home/ug/Documents/algorithm/src/204.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/204.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/224.dir/src/224.cpp.o -c /home/ug/Documents/algorithm/src/224.cpp",
+  "file": "/home/ug/Documents/algorithm/src/224.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/224.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/27.dir/src/27.cpp.o -c /home/ug/Documents/algorithm/src/27.cpp",
+  "file": "/home/ug/Documents/algorithm/src/27.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/27.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2717.dir/src/2717.cpp.o -c /home/ug/Documents/algorithm/src/2717.cpp",
+  "file": "/home/ug/Documents/algorithm/src/2717.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2717.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2869.dir/src/2869.cpp.o -c /home/ug/Documents/algorithm/src/2869.cpp",
+  "file": "/home/ug/Documents/algorithm/src/2869.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/2869.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3.dp.dir/src/3.dp.cpp.o -c /home/ug/Documents/algorithm/src/3.dp.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3.dp.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3.dp.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3186.dir/src/3186.cpp.o -c /home/ug/Documents/algorithm/src/3186.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3186.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3186.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3206.dir/src/3206.cpp.o -c /home/ug/Documents/algorithm/src/3206.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3206.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3206.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3208.dir/src/3208.cpp.o -c /home/ug/Documents/algorithm/src/3208.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3208.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3208.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3218.dir/src/3218.cpp.o -c /home/ug/Documents/algorithm/src/3218.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3218.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3218.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3226.dir/src/3226.cpp.o -c /home/ug/Documents/algorithm/src/3226.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3226.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3226.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3233.dir/src/3233.cpp.o -c /home/ug/Documents/algorithm/src/3233.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3233.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3233.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3235.dir/src/3235.cpp.o -c /home/ug/Documents/algorithm/src/3235.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3235.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3235.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3235_cp.dir/src/3235_cp.cpp.o -c /home/ug/Documents/algorithm/src/3235_cp.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3235_cp.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3235_cp.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3244.dir/src/3244.cpp.o -c /home/ug/Documents/algorithm/src/3244.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3244.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3244.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3248.dir/src/3248.cpp.o -c /home/ug/Documents/algorithm/src/3248.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3248.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3248.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3249.dir/src/3249.cpp.o -c /home/ug/Documents/algorithm/src/3249.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3249.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3249.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3250.dir/src/3250.cpp.o -c /home/ug/Documents/algorithm/src/3250.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3250.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3250.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3254.dir/src/3254.cpp.o -c /home/ug/Documents/algorithm/src/3254.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3254.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3254.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3255.dir/src/3255.cpp.o -c /home/ug/Documents/algorithm/src/3255.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3255.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3255.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3258.dir/src/3258.cpp.o -c /home/ug/Documents/algorithm/src/3258.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3258.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3258.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3259.dir/src/3259.cpp.o -c /home/ug/Documents/algorithm/src/3259.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3259.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3259.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/326.dir/src/326.cpp.o -c /home/ug/Documents/algorithm/src/326.cpp",
+  "file": "/home/ug/Documents/algorithm/src/326.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/326.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3266.dir/src/3266.cpp.o -c /home/ug/Documents/algorithm/src/3266.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3266.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3266.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3354.dir/src/3354.cpp.o -c /home/ug/Documents/algorithm/src/3354.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3354.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3354.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3356.dir/src/3356.cpp.o -c /home/ug/Documents/algorithm/src/3356.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3356.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3356.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3357.dir/src/3357.cpp.o -c /home/ug/Documents/algorithm/src/3357.cpp",
+  "file": "/home/ug/Documents/algorithm/src/3357.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/3357.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/342.dir/src/342.cpp.o -c /home/ug/Documents/algorithm/src/342.cpp",
+  "file": "/home/ug/Documents/algorithm/src/342.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/342.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/367.dir/src/367.cpp.o -c /home/ug/Documents/algorithm/src/367.cpp",
+  "file": "/home/ug/Documents/algorithm/src/367.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/367.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/4.full_arrange.dir/src/4.full_arrange.cpp.o -c /home/ug/Documents/algorithm/src/4.full_arrange.cpp",
+  "file": "/home/ug/Documents/algorithm/src/4.full_arrange.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/4.full_arrange.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/41.dir/src/41.cpp.o -c /home/ug/Documents/algorithm/src/41.cpp",
+  "file": "/home/ug/Documents/algorithm/src/41.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/41.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/42.dir/src/42.cpp.o -c /home/ug/Documents/algorithm/src/42.cpp",
+  "file": "/home/ug/Documents/algorithm/src/42.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/42.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/45.dir/src/45.cpp.o -c /home/ug/Documents/algorithm/src/45.cpp",
+  "file": "/home/ug/Documents/algorithm/src/45.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/45.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/46.dir/src/46.cpp.o -c /home/ug/Documents/algorithm/src/46.cpp",
+  "file": "/home/ug/Documents/algorithm/src/46.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/46.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/464.dir/src/464.cpp.o -c /home/ug/Documents/algorithm/src/464.cpp",
+  "file": "/home/ug/Documents/algorithm/src/464.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/464.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/47.dir/src/47.cpp.o -c /home/ug/Documents/algorithm/src/47.cpp",
+  "file": "/home/ug/Documents/algorithm/src/47.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/47.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/49.dir/src/49.cpp.o -c /home/ug/Documents/algorithm/src/49.cpp",
+  "file": "/home/ug/Documents/algorithm/src/49.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/49.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/5.n_queen.dir/src/5.n_queen.cpp.o -c /home/ug/Documents/algorithm/src/5.n_queen.cpp",
+  "file": "/home/ug/Documents/algorithm/src/5.n_queen.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/5.n_queen.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/51.dir/src/51.cpp.o -c /home/ug/Documents/algorithm/src/51.cpp",
+  "file": "/home/ug/Documents/algorithm/src/51.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/51.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/55.dir/src/55.cpp.o -c /home/ug/Documents/algorithm/src/55.cpp",
+  "file": "/home/ug/Documents/algorithm/src/55.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/55.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/6.min_window.dir/src/6.min_window.cpp.o -c /home/ug/Documents/algorithm/src/6.min_window.cpp",
+  "file": "/home/ug/Documents/algorithm/src/6.min_window.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/6.min_window.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/632.dir/src/632.cpp.o -c /home/ug/Documents/algorithm/src/632.cpp",
+  "file": "/home/ug/Documents/algorithm/src/632.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/632.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/633.dir/src/633.cpp.o -c /home/ug/Documents/algorithm/src/633.cpp",
+  "file": "/home/ug/Documents/algorithm/src/633.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/633.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/69.dir/src/69.cpp.o -c /home/ug/Documents/algorithm/src/69.cpp",
+  "file": "/home/ug/Documents/algorithm/src/69.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/69.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/7.dir/src/7.cpp.o -c /home/ug/Documents/algorithm/src/7.cpp",
+  "file": "/home/ug/Documents/algorithm/src/7.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/7.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/70.dir/src/70.cpp.o -c /home/ug/Documents/algorithm/src/70.cpp",
+  "file": "/home/ug/Documents/algorithm/src/70.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/70.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/743.dir/src/743.cpp.o -c /home/ug/Documents/algorithm/src/743.cpp",
+  "file": "/home/ug/Documents/algorithm/src/743.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/743.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/746.dir/src/746.cpp.o -c /home/ug/Documents/algorithm/src/746.cpp",
+  "file": "/home/ug/Documents/algorithm/src/746.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/746.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/935.dir/src/935.cpp.o -c /home/ug/Documents/algorithm/src/935.cpp",
+  "file": "/home/ug/Documents/algorithm/src/935.cpp"
+},
+{
+  "directory": "/home/ug/Documents/algorithm/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -O0 -g -fsanitize=address -std=gnu++20 -o CMakeFiles/935.dir/src/comm.cpp.o -c /home/ug/Documents/algorithm/src/comm.cpp",
+  "file": "/home/ug/Documents/algorithm/src/comm.cpp"
+}
+]
