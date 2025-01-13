@@ -28,3 +28,19 @@ foreach(source_file ${NUMBER_CPP_FILES})
         src/comm.cpp
     )
 endforeach()
+
+# 查找当前目录下所有以数字开头的.cpp文件
+file(GLOB NUMBER_CPP_FILES "data_struct/[0-9]*.cpp")
+
+# 遍历找到的每个.cpp文件
+foreach(source_file ${NUMBER_CPP_FILES})
+    get_filename_component(file_base_name ${source_file} NAME)
+    string(REPLACE ".cpp" "" file_base_name ${file_base_name})
+
+    message(STATUS "Configuring executable: ${file_base_name} from source: ${source_file}")
+    add_executable("${file_base_name}"
+        ${source_file}
+        comm/comm.cpp
+    )
+    target_include_directories("${file_base_name}" PRIVATE comm)
+endforeach()
