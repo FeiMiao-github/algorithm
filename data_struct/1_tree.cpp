@@ -36,7 +36,7 @@ public:
 int main()
 {
     vector<int> arr {1, 2, 3, 4, 5, 6, -1};
-    auto tree = gen_tree(arr);
+    auto tree = TreeNode::gen_tree(arr);
     Iter iter;
     iter.iter(&(*tree)[0]);
     return 0;
