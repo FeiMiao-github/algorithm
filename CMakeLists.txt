@@ -4,7 +4,7 @@ project(HelloWorld)
 
 set(CMAKE_BINARY_DIR bin)
 set(CMAKE_CXX_STANDARD 20)
-
+set(CMAKE_EXPORT_COMPILE_COMMANDS on)
 
 add_compile_options(-Wall -Wextra -O0 -g)
 # add_compile_options(-fstack-protector-all)
@@ -25,8 +25,9 @@ foreach(source_file ${NUMBER_CPP_FILES})
     message(STATUS "Configuring executable: ${file_base_name} from source: ${source_file}")
     add_executable("${file_base_name}"
         ${source_file}
-        src/comm.cpp
+        comm/comm.cpp
     )
+    target_include_directories("${file_base_name}" PRIVATE comm)
 endforeach()
 
 # 查找当前目录下所有以数字开头的.cpp文件
