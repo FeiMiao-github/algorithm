@@ -1,4 +1,5 @@
 #include <comm.h>
+#include <tree.h>
 
 class MinHeap {
 public:
