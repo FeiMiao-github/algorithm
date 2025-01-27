@@ -9,6 +9,7 @@
 #include <functional>
 #include <iostream>
 #include <map>
+#include <ostream>
 #include <queue>
 #include <set>
 #include <sstream>
@@ -32,6 +33,35 @@ std::ostream &operator<<(std::ostream &os, const vector<string> &strs);
 
 // std::cout vector<vector<string>>
 std::ostream &operator<<(std::ostream &os, const vector<vector<string>> &strs);
+
+template <typename T1, typename T2>
+std::ostream &operator<<(std::ostream &os, const std::pair<T1, T2> &pair) {
+    return os << "{" << pair.first << ", " << pair.second << "}";
+}
+
+template <typename T>
+std::ostream &operator<<(std::ostream &os, const vector<T> &v) {
+    os << "{";
+    for (auto &e : v) {
+        os << e << ",";
+    }
+    return os << "}";
+}
+
+template <typename T>
+void ug_check_set(const vector<T> &res, const vector<T> &exp) {
+    unordered_set<T> res_set;
+    unordered_set<T> exp_set;
+
+    res_set.insert(res.begin(), res.end());
+    exp_set.insert(exp.begin(), exp.end());
+
+    if (res_set == exp_set) {
+        std::cout << "[OK]\n";
+    } else {
+        std::cout << "[FAILED]" << res << "\n";
+    }
+}
 
 template <typename T> void ug_check(const T &res, const T &exp) {
     if (res == exp) {
